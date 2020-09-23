@@ -1,4 +1,5 @@
 # RestAPI_Flask
+This is a small work committing the Rest_API with Flask and Python to perform the web services using database.
 
 ## Installation 
 Use the package manager pip to install flask
