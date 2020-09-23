@@ -1,4 +1,4 @@
-# RestAPI_Flask
+# RestAPI with Flask and Python
 This is a small work committing the Rest_API with Flask and Python to perform the web services using database.
 
 ## Installation 
